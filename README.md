@@ -37,11 +37,6 @@ run bundler
 
 yarn watch
 
-cd into frontend
-
-npm install
-
-npm start
 
 
 
